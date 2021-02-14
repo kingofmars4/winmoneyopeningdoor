@@ -1,0 +1,5 @@
+name: WinMoneyDoor
+main: me.kingofmars4.winmoney.Main
+version: 1.0
+author: KingOfMars4
+depends: Vault
